@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    color: chartreuse;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    color: brown;
+}
+h4{
+    color:chocolate;
+}
+p{
+    color: deeppink;
+    padding: 18px;
+    font-size: larger;
+}
