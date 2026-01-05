@@ -1,21 +1,23 @@
 body{
-    background-color: aqua;
-    color: chartreuse;
+    background-color: rgb(148, 234, 234);
+    color: rgb(144, 179, 110);
 }
 h1{
-    color: blue;
+    color: rgb(131, 131, 235);
 }
 h2{
-    color: blueviolet;
+    color: rgb(129, 102, 154);
 }
 h3{
-    color: brown;
+    color: rgb(162, 92, 92);
 }
 h4{
-    color:chocolate;
+    color:rgb(200, 133, 86);
 }
 p{
-    color: deeppink;
+    color: rgb(201, 114, 160);
     padding: 18px;
     font-size: larger;
+    margin: auto;
+    padding: 10px;
 }
